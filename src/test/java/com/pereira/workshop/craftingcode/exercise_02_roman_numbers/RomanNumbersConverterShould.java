@@ -1,6 +1,5 @@
 package com.pereira.workshop.craftingcode.exercise_02_roman_numbers;
 
-import com.pereira.workshop.craftingcode.exericise_02_roman_numbers.RomanNumbersConverter;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvSource;

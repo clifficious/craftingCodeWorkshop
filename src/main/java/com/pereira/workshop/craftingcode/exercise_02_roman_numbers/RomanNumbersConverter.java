@@ -1,4 +1,4 @@
-package com.pereira.workshop.craftingcode.exericise_02_roman_numbers;
+package com.pereira.workshop.craftingcode.exercise_02_roman_numbers;
 
 import java.util.LinkedHashMap;
 import java.util.Map;
